@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/KlausVigo/thinr.svg?branch=master)](https://travis-ci.org/KlausVigo/thinr)
+[![codecov](https://codecov.io/gh/KlausVigo/thinr/branch/master/graph/badge.svg)](https://codecov.io/gh/KlausVigo/thinr)
+[![Coverage Status](https://coveralls.io/repos/github/KlausVigo/thinr/badge.svg?branch=master)](https://coveralls.io/github/KlausVigo/thinr?branch=master)
+
+
 thinr
 ========================================================
 
