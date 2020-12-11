@@ -1,6 +1,6 @@
 Package: thinr
 Type: Package
-Title: fast spatial thinning
+Title: Fast Spatial Thinning
 Version: 0.1.0
 Authors@R: c(person("Klaus", "Schliep", email="klaus.schliep@gmail.com", 
   role = c("aut", "cre")), 
