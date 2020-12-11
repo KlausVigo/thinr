@@ -6,7 +6,7 @@ Authors@R: c(person("Klaus", "Schliep", email="klaus.schliep@gmail.com",
   role = c("aut", "cre")), 
   person("Key", "Duckworth", role=c("aut"))) 
 Maintainer: Klaus Schliep <klaus.schliep@gmail.com>
-Description: thinr allows to thin spatially species occurence data.
+Description: Thin spatially species occurence data for faster downstream analysis.
 Imports:
   parallel, 
   geodist
